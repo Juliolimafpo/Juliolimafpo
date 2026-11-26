@@ -30,7 +30,7 @@ Estudante de **Análise e Desenvolvimento de Sistemas (ADS)**, aprendendo Python
 
 ---
 
-⭐ Sempre aprendendo e evoluindo, um commit de cada vez. ## Hi there 👋
+⭐ Sempre aprendendo e evoluindo, um commit de cada vez. 👋
 
 <!--
 **Juliolimafpo/Juliolimafpo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
